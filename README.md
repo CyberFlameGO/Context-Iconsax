@@ -27,8 +27,8 @@ For any kind of support related to this theme you can contact me in the [support
 
 # Previews
 
-<img src="https://lavender-discord.github.io/IconsaxDiscord/assets/1.png" alt="">
+<img src="https://lavender-discord.github.io/Context-Iconsax/assets/1.png" alt="">
 
 <br>
 
-<img src="https://lavender-discord.github.io/IconsaxDiscord/assets/2.png" alt="">
+<img src="https://lavender-discord.github.io/Context-Iconsax/assets/2.png" alt="">
