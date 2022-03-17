@@ -36,3 +36,7 @@
 .focused-3qFvc8.colorBrand-3cPPsm:hover::before {
 	background-color: var(--interactive-active);
 }
+
+#status-picker .item-1OdjEX::before {
+	display: none;
+}
